@@ -13,3 +13,11 @@
 格式是[小时:分钟:秒] 歌词
 
 不定时更新
+
+下载方法:https://github.com/wuliaodexiaoluo/LuoTianyiCoverSongLRC/blob/main/歌曲名称.lrc?raw=true
+
+比如下载我会等的LRC
+
+https://github.com/wuliaodexiaoluo/LuoTianyiCoverSongLRC/blob/main/我会等.lrc?raw=true
+
+不要直接访问https://github.com/wuliaodexiaoluo/LuoTianyiCoverSongLRC/blob/main/我会等.lrc，因为只能得到一个html文件而非LRC
