@@ -1,4 +1,4 @@
-# 洛天依翻唱曲LRC歌词文件下载
+# V家翻唱曲歌词LRC文件
 
 提供了我自己制作的LRC歌词文件
 
@@ -13,3 +13,11 @@
 格式是[小时:分钟:秒] 歌词
 
 不定时更新
+
+下载方法:https://github.com/wuliaodexiaoluo/LuoTianyiCoverSongLRC/blob/main/files/歌手英文名称/歌曲名称.lrc?raw=true
+
+比如下载我会等的LRC
+
+https://github.com/wuliaodexiaoluo/LuoTianyiCoverSongLRC/blob/main/files/LuoTianyi/我会等.lrc?raw=true
+
+不要直接访问https://github.com/wuliaodexiaoluo/LuoTianyiCoverSongLRC/blob/main/歌曲名称.lrc，因为只能得到一个html文件而非LRC
