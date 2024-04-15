@@ -20,7 +20,7 @@
 
 ## 如何下载
 
-下载方法:https://github.com/wuliaodexiaoluo/LuoTianyiCoverSongLRC/blob/main/files/歌手英文名称/歌曲名称.lrc?raw=true
+下载方法:https://github.com/LTY-Followers/LuoTianyiCoverSongLRC/blob/main/files/歌手英文名称/歌曲名称.lrc?raw=true
 
 因为浏览器会展示纯文本内容，所以推荐用工具下载
 
