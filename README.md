@@ -1,4 +1,4 @@
-# V家翻唱曲歌词LRC文件
+# 洛天依翻唱/曲歌词LRC文件
 
 提供了我自己制作的LRC歌词文件
 
@@ -22,3 +22,5 @@ https://github.com/wuliaodexiaoluo/LuoTianyiCoverSongLRC/blob/main/files/LuoTian
 
 不要直接访问https://github.com/wuliaodexiaoluo/LuoTianyiCoverSongLRC/blob/main/歌曲名称.lrc
 因为只能得到一个html文件而非LRC
+
+## 项目移动到 https://github.com/LTY-Followers/LuoTianyiCoverSongLRC
