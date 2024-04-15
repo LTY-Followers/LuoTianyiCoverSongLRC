@@ -23,4 +23,4 @@ https://github.com/wuliaodexiaoluo/LuoTianyiCoverSongLRC/blob/main/files/LuoTian
 不要直接访问https://github.com/wuliaodexiaoluo/LuoTianyiCoverSongLRC/blob/main/歌曲名称.lrc
 因为只能得到一个html文件而非LRC
 
-## 项目移动到 https://github.com/LTY-Followers/LuoTianyiCoverSongLRC
+## 本仓库现已迁移到 https://github.com/LTY-Followers/LuoTianyiCoverSongLRC
