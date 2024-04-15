@@ -29,11 +29,15 @@
 https://github.com/LTY-Followers/LuoTianyiCoverSongLRC/blob/main/files/LuoTianyi/我会等.lrc?raw=true
 
 不要直接访问https://github.com/LTY-Followers/LuoTianyiCoverSongLRC/blob/main/歌曲名称.lrc
+
 因为只能得到一个 html 文件而非 LRC
 
 ## 一些无趣的细节
 
 你可以看到项目名称下面有个 forked from wuliaodexiaoluo/LuoTianyiCoverSongLRC
+
 对没错，这是个 Fork 的副本 Repo （源仓库已经归档了），所以现在这个是主仓库
+
 什么？你问我为什么是 Fork       ~我才不会告诉你是因为我懒得重新搞就用 Fork 了~
-虽然是 LuoTianyiCoverSongLRC 但你可以在项目的 Repo 上看到其他 Vsinger 的歌词文件
+
+~虽然是 LuoTianyiCoverSongLRC 但你可以在项目的 Repo 上看到其他 Vsinger 的歌词文件~
