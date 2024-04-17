@@ -1,6 +1,6 @@
 name: "歌词反馈"
 description: "歌词问题"
-labels: [· Bug, 新反馈]
+labels: [Bug, 新反馈]
 body:
 - type: checkboxes
   id: "yml-1"
