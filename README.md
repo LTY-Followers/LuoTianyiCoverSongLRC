@@ -24,3 +24,4 @@ https://github.com/wuliaodexiaoluo/LuoTianyiCoverSongLRC/blob/main/files/LuoTian
 因为只能得到一个html文件而非LRC
 
 ## 本仓库现已迁移到 https://github.com/LTY-Followers/LuoTianyiCoverSongLRC
+这里只提供 page 下载源
