@@ -1,0 +1,30 @@
+name: "取消收录申请"
+description: "取消收录申请"
+labels: [取消收录, 新反馈]
+body:
+- type: checkboxes
+  id: "yml-1"
+  attributes:
+    label: "检查项"
+    description: "请逐个检查下列项目，并勾选确认。"
+    options:
+    - label: "**我已确认 Issue 没有对应反馈"
+      required: true
+    - label: "**我已确认以下信息属实"
+      required: true
+    - label: "我已知晓作者学业繁忙，可能无法及时处理"
+      required: true
+- type: textarea
+  id: "yml-2"
+  attributes:
+    label: 原因
+    placeholder: "为什么需要取消收录"
+  validations:
+    required: true
+- type: textarea
+  id: "yml-3"
+  attributes:
+    label: 需要撤销的歌曲
+    placeholder: "样例:大哉乾元 - 洛天依"
+  validations:
+    required: true

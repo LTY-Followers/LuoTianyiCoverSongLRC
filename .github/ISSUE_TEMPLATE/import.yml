@@ -1,0 +1,42 @@
+name: "收录申请"
+description: "收录申请"
+labels: [收录请求, 新反馈]
+body:
+- type: checkboxes
+  id: "yml-1"
+  attributes:
+    label: "检查项"
+    description: "请逐个检查下列项目，并勾选确认。"
+    options:
+    - label: "**我已确认 Issue/Pull Request 没有相符的请求"
+      required: true
+    - label: "**我已确认 Repo 中没有对应歌词文件"
+      required: true
+    - label: "我已知晓作者学业繁忙，可能无法及时处理"
+      required: true
+    - label: "我已知晓如果提交非 Vsinger 歌手歌词收录请求 100% 会被拒绝"
+      required: true
+- type: textarea
+  id: "yml-2"
+  attributes:
+    label: 歌词\歌词文件
+    description: "这里提供歌词或者已经处理好的文件"
+    placeholder: "点击这里后拖拽上传"
+  validations:
+    required: true
+- type: textarea
+  id: "yml-3"
+  attributes:
+    label: 歌手名称和歌曲名称
+    description: "提供歌手和歌曲名称"
+    placeholder: "样例：大哉乾元 - 洛天依"
+  validations:
+    required: true
+- type: textarea
+  id: "yml-4"
+  attributes:
+    label: 音频文件
+    description: "这里提供音频文件"
+    placeholder: "先点击这个文本框，然后再将文件直接拖拽到文本框中以上传。"
+  validations:
+    required: true
