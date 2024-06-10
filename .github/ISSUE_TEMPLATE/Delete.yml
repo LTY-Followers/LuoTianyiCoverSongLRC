@@ -1,5 +1,5 @@
 name: "取消收录申请"
-description: "LRC 取消收录申请"
+description: "取消收录申请"
 labels: [取消收录, 新反馈]
 body:
 - type: checkboxes
@@ -24,7 +24,7 @@ body:
 - type: textarea
   id: "yml-3"
   attributes:
-    label: 需要撤销的歌词文件名称
-    placeholder: "样例:大哉乾元.lrc"
+    label: 需要撤销的歌曲
+    placeholder: "样例:大哉乾元 - 洛天依"
   validations:
     required: true

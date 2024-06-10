@@ -1,6 +1,6 @@
-name: "LRC 收录申请"
-description: "LRC 收录申请"
-labels: [LRC 收录请求, 新反馈]
+name: "收录申请"
+description: "收录申请"
+labels: [收录请求, 新反馈]
 body:
 - type: checkboxes
   id: "yml-1"
@@ -19,8 +19,8 @@ body:
 - type: textarea
   id: "yml-2"
   attributes:
-    label: 歌词\LRC 文件
-    description: "这里提供歌词或者已经处理好的 LRC 文件"
+    label: 歌词\歌词文件
+    description: "这里提供歌词或者已经处理好的文件"
     placeholder: "点击这里后拖拽上传"
   validations:
     required: true
