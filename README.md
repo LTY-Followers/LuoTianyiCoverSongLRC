@@ -2,41 +2,33 @@
 
 ## 项目简介
 
-提供现成的LRC歌词文件
+为 B 站上没有上传到各大音乐平台上的 **VOCALOID·UTAU** 提供现成的LRC歌词文件
 
-因为是手动对的，所以可能不太准
-
-歌词可能会有点错误，如果歌词明显不准或者有错别字可以发 Issue 告诉我，我会在之后有空时统一改
-
-也可以发 Pull Request
-
-歌词文件没有加密，也可以自己改
-
-格式是[小时:分钟:秒] 歌词
-
-不定时更新
 
 ## 歌词滚动
 之后可能会加入对 qrc 的支持，现在暂不考虑
 
 ## 如何下载
 
-下载方法:https://github.com/LTY-Followers/LuoTianyiCoverSongLRC/blob/main/files/歌手英文名称/歌曲名称.lrc?raw=true
+### GitHub Repo 镜像
 
-因为浏览器会展示纯文本内容，所以推荐用工具下载
+https://github.com/LTY-Followers/LuoTianyiCoverSongLRC/raw/api-services/main/files/歌手英文名称/歌曲名称.lrc
 
-比如下载我会等的 LRC
+### GitHub Page 镜像 (仓库 Settings 不让设了，所以用下面的链接)
 
-https://github.com/LTY-Followers/LuoTianyiCoverSongLRC/blob/main/files/LuoTianyi/我会等.lrc?raw=true
+https://wuliaodexiaoluo.github.io/LuoTianyiCoverSongLRC/api-services/main/files/歌手英文名称/歌曲名称.lrc
 
+### Vercel 镜像
 
+https://luo-tianyi.vercel.app/LuoTianyiCoverSongLRC/api-services/main/files/歌手英文名称/歌曲名称.lrc
 
+## 歌手英文名转换
 
+### 洛天依 ---> LuoTianyi
 
-## 一些无趣的细节
+### 乐正绫 ---> YueZhengling
 
-~虽然是 LuoTianyiCoverSongLRC 但你可以在项目的 Repo 上看到其他 Vsinger 的歌词文件~
+### 言和 ---> YaHE
 
-## 本仓库现已迁移到 https://github.com/LTY-Followers/LuoTianyiCoverSongLRC
-这里只提供 page 下载源
+### 乐正龙牙 ---> YueZhengly
 
