@@ -6,7 +6,7 @@
 
 
 ## 歌词滚动
-之后可能会加入对 qrc 的支持，现在暂不考虑
+这玩意太难整了，没有很好的工具去搞
 
 ## 如何下载
 
@@ -14,7 +14,7 @@
 
 https://github.com/LTY-Followers/LuoTianyiCoverSongLRC/raw/api-services/main/files/歌手英文名称/歌曲名称.lrc
 
-### GitHub Page 镜像 (仓库 Settings 不让设了，所以用下面的链接)
+### GitHub Page 镜像
 
 https://wuliaodexiaoluo.github.io/LuoTianyiCoverSongLRC/api-services/main/files/歌手英文名称/歌曲名称.lrc
 
@@ -31,4 +31,3 @@ https://luo-tianyi.vercel.app/LuoTianyiCoverSongLRC/api-services/main/files/歌�
 ### 言和 ---> YaHE
 
 ### 乐正龙牙 ---> YueZhengly
-
