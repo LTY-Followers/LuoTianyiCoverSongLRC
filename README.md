@@ -16,11 +16,11 @@ https://github.com/LTY-Followers/LuoTianyiCoverSongLRC/raw/api-services/main/fil
 
 ### GitHub Page 镜像
 
-https://wuliaodexiaoluo.github.io/LuoTianyiCoverSongLRC/api-services/main/files/歌手英文名称/歌曲名称.lrc
+https://wuliaodexiaoluo.github.io/LuoTianyiCoverSongLRC/api-services/files/歌手英文名称/歌曲名称.lrc
 
 ### Vercel 镜像
 
-https://luo-tianyi.vercel.app/LuoTianyiCoverSongLRC/api-services/main/files/歌手英文名称/歌曲名称.lrc
+https://luo-tianyi.vercel.app/LuoTianyiCoverSongLRC/api-services/files/歌手英文名称/歌曲名称.lrc
 
 ## 歌手英文名转换
 
