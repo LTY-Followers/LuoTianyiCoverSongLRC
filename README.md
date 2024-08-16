@@ -34,7 +34,7 @@ https://luo-tianyi.vercel.app/LuoTianyiCoverSongLRC/api-services/files/歌手英
 
 统一使用 歌曲名称.lrc
 
-非 ANSI 符号一律移除或使用 ASNI 符号替换
+非 ANSI 符号一律移除或使用 ANSI 符号替换
 
 ## 最后一次更新:2024/08/16
 
