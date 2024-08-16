@@ -1,6 +1,6 @@
 name: "取消收录申请"
 description: "取消收录申请"
-labels: [取消收录, 新反馈]
+labels: [取消收录]
 body:
 - type: checkboxes
   id: "yml-1"
