@@ -1,6 +1,6 @@
 name: "收录申请"
 description: "收录申请"
-labels: [收录请求, 新反馈]
+labels: [收录请求]
 body:
 - type: checkboxes
   id: "yml-1"
@@ -8,13 +8,7 @@ body:
     label: "检查项"
     description: "请逐个检查下列项目，并勾选确认。"
     options:
-    - label: "**我已确认 Issue/Pull Request 没有相符的请求"
-      required: true
     - label: "**我已确认 Repo 中没有对应歌词文件"
-      required: true
-    - label: "我已知晓作者学业繁忙，可能无法及时处理"
-      required: true
-    - label: "我已知晓如果提交非 Vsinger 歌手歌词收录请求 100% 会被拒绝"
       required: true
 - type: textarea
   id: "yml-2"
@@ -23,7 +17,7 @@ body:
     description: "这里提供歌词或者已经处理好的文件"
     placeholder: "点击这里后拖拽上传"
   validations:
-    required: true
+    required: false
 - type: textarea
   id: "yml-3"
   attributes:
@@ -35,8 +29,8 @@ body:
 - type: textarea
   id: "yml-4"
   attributes:
-    label: 音频文件
-    description: "这里提供音频文件"
-    placeholder: "先点击这个文本框，然后再将文件直接拖拽到文本框中以上传。"
+    label: 来源
+    description: "这里提供音频文件/视频网站链接（建议 BiliBili）"
+    placeholder: "非必须"
   validations:
-    required: true
+    required: false
