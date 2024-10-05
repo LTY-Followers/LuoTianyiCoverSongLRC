@@ -16,11 +16,6 @@ jobs:
 
       - name: CheckOut Code
         uses: actions/checkout@v4
-        
-      - name: Delete
-        run: |
-          rd /s /q .github 
-          del README.md
       
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@3.7.1
