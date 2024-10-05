@@ -1,0 +1,24 @@
+name: GitHubIssueCheck
+
+on:
+  issues:
+    types: [opened, edited]
+  pull_request:
+    types: [opened, edited]
+
+jobs:
+  build:
+    runs-on: windows-2022
+
+    steps:
+      - name: Checkout v4
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.10
+      
+      - name: Run Check
+        run: |
+          python check.py --apikey ${{ secrets.TOKEN }} --use-ssh --ssh-key ${{ secrets.SSH }} --issue-meta https://issue-meta.luolingxue.us.kg/issues.json --pullmeta https://issue-meta.luolingxue.us.kg/pull.json
