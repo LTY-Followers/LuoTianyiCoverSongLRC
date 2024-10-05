@@ -1,9 +1,6 @@
 name: GitHubIssueCheck
 on:
-  issues:
-    types: [opened, edited]
-  pull_request:
-    types: [opened, edited]
+  workflow_dispatch:
 
 jobs:
   build:
@@ -19,4 +16,4 @@ jobs:
           python-version: 3.10
       
       - name: Run Check
-        run: python Check-Code.py --apikey ${{secerts.TOKEN}} --blocklist https://issue-meta.luolingxue.us.kg/blockuser.json
+        run: python Check-Code.py --apikey ${{ secerts.TOKEN }} --blocklist https://issue-meta.luolingxue.us.kg/blockuser.json
