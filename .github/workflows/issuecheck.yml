@@ -14,7 +14,7 @@ jobs:
       - name: Issues Similarity Analysis
         uses: actions-cool/issues-similarity-analysis@v1.3.2
         with:
-          filter-threshold: 0.7
+          filter-threshold: 0.35
           comment-title: '反馈检查 | Feedback Check'
           comment-body: '${index}. ${similarity} #${number}'
           show-footer: false
