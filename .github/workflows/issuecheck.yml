@@ -1,0 +1,21 @@
+name: Issues Similarity Analysis
+
+permissions:
+  issues: write
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  similarity-analysis:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Issues Similarity Analysis
+        uses: actions-cool/issues-similarity-analysis@v1.3.2
+        with:
+          filter-threshold: 0.35
+          comment-title: '反馈检查 | Feedback Check'
+          comment-body: '${index}. ${similarity} #${number}'
+          show-footer: false
+          show-mentioned: true

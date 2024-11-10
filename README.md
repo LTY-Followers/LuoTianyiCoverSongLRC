@@ -14,9 +14,9 @@
 
 https://github.com/LTY-Followers/LuoTianyiCoverSongLRC/raw/api-services/main/files/歌手英文名称/歌曲名称.lrc
 
-### CDN 镜像
+### GitHub Pages
 
-https://api.luolingxue.us.kg/LuoTianyiCoverSongLRC/api-services/files/歌手英文名称/歌曲名称.lrc
+https://lty-followers.github.io/LuoTianyiCoverSongLRC/api-services/files/歌手英文名称/歌曲名称.lrc
 
 ### Vercel 镜像(索引未同步，暂不可用)
 
